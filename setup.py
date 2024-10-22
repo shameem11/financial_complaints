@@ -3,7 +3,7 @@ from typing import List
 
 PROJECT_NAME = "Finane_complaint"
 VERSION = "0.0.1"
-AUTHOR = 'Shameem'
+AUTHOR = 'mohammed Shameem'
 DESCRIPTION = "Finacial complaint management"
 REQUIRMENT_FILE_NAME = 'requirements.txt'
 
