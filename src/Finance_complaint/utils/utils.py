@@ -14,7 +14,7 @@ def write_yaml(file_path:str,data:dict =None):
          if data is not None:
           yaml.dump(data,yaml_file)
     except Exception as e:
-        raise FinaceException(e,Sys)
+        raise FinaceException(e,sys)
     
 
 def read_yaml(file_path:str)-> dict:
